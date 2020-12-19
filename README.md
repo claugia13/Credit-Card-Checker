@@ -24,7 +24,7 @@ As you progress through the steps, use the terminal and console.log() statements
 * Javascript - ES6
 
 ## Setup
-Run code in Visual Studio Code or another code editor with Node.js
+Run locally with Node.js.
 
 ## Code Examples
 
