@@ -28,7 +28,8 @@ Run code in Visual Studio Code or another code editor with Node.js
 
 ## Code Examples
 
-`const invalidCardCompanies = [];
+```javascript
+const invalidCardCompanies = [];
 const idInvalidCardCompanies = nestedArray => {
   nestedArray.map(singleArray => {
 switch (singleArray[0]){
@@ -49,7 +50,8 @@ default:
  break;
 }// end of switch statement
 })
-//invalidCardCompanies array should now contain all names of invalid Card Companies including duplicates`
+//invalidCardCompanies array should now contain all names of invalid Card Companies including duplicates
+```
 
 ## Features
 List of Project Requirements/Steps from Codecademy
