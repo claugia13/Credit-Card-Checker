@@ -18,7 +18,7 @@ Context: The company that you work for suspects that credit card distributors ha
 As you progress through the steps, use the terminal and console.log() statements to check the output of your loops and functions.
 
 ## Screenshots
-![Steps to valiate a credit card number](./cc validator diagram 1.svg)
+![Steps to valiate a credit card number](./cc-validator-diagram.svg)
 
 ## Technologies
 * Javascript - ES6
